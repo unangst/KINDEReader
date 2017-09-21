@@ -1,10 +1,11 @@
-KindeReader aka
-Music Player for Google Drive
+KINDEReader (aka Music Player for Google Drive)
 =============================
+Pairing young readers with read-aloud versions of books via Google Drive.
 
-Music Player for Google Drive is a simple and lightweight online music player for your audio files stored in Google Drive. Its is entirely client side and does not require any server side component.
 
-It's available [in the Chrome Web Store](https://chrome.google.com/webstore/detail/music-player-for-google-d/hnfeekfpnjbdmelcapngdgkjnhgijjkh) or you can simply visit www.driveplayer.com.
+KINDEReader is a simple and lightweight online story player for your audio files stored in Google Drive. It's a simple way to connect students to audio files and supports Chromebooks, iPads and iPod Touches (even older ones). 
+
+It's a fork of www.driveplayer.com.
 
 It looks like this:
 
@@ -24,3 +25,6 @@ As well as the following features:
 
 
 > Note: This is not an official Google Product. This is a sample application demonstrating how to build a fully client side Google Drive application. It is currently deployed and running and is supported on a best effort basis.
+
+~ Enjoy!  
+~ Eric Unangst
